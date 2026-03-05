@@ -1,4 +1,4 @@
-# 🍴 CardapioReactRoute 
+# 🍴 Cardapio - ReactRoute 
 ### Interface Dinâmica de Cardápio com React e Roteamento Avançado
 
 Este projeto é um laboratório focado em **Single Page Application (SPA)**, onde explorei a orquestração de rotas complexas e a estilização componentizada. O objetivo foi criar uma experiência de usuário fluida, simulando o fluxo real de navegação em um cardápio digital de alta performance.
